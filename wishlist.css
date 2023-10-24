@@ -1,0 +1,51 @@
+
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons+Outlined");
+
+.head{
+    margin-left:550px ;
+    margin-top: 50px;
+    
+    
+}
+.heading{
+    margin-left: 20px;
+    color: turquoise;
+    font-size: 50px;
+
+}
+body{
+    background-image: url('./pexels-symeon-ekizoglou-2962392.jpg');
+    background-repeat: no-repeat;
+    
+}
+#button-input input {
+    color: violet;
+    width: 200px;
+    height: 20px;
+    color: tomato;
+}
+.todo-container{
+    margin-top:25px;
+    color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    
+}
+.delete-button{
+    display: contents;
+}
+.material-symbols-outlined{
+    position:relative;
+    left:80px;
+    top:5px;
+    color: aquamarine;
+}
+
+.t-pointer{
+    cursor: pointer;
+}
+.checked-todo {
+    text-decoration: line-through;
+    color: var(--text-color-primary);
+  }
+
